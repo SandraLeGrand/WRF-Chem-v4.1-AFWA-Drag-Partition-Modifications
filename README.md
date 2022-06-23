@@ -1,4 +1,7 @@
 # WRF-Chem-v4.1-AFWA-Drag-Partition-Modifications
+
+[![DOI](https://zenodo.org/badge/396943079.svg)](https://zenodo.org/badge/latestdoi/396943079)
+
 This repository contains the four modified WRF-Chem v4.1 files required to incorporate version 1.0 of the albedo-based drag partition parameterization originally developed by Chappell and Webb (2016) into the AFWA dust emission module. 
 
 Though we used WRF-Chem v4.1 in this implementation example, the process should be relatively consistent for later WRF-Chem versions (currently on v4.4 at the time of publication). We recommend users planning to use the WRF-Chem/GOCART dust transport capability work with WRF-Chem v4.1 or later due to a critical bug fix in the GOCART deposition module.
