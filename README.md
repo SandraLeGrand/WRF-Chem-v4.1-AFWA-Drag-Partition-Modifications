@@ -5,7 +5,7 @@ Though we used WRF-Chem v4.1 in this implementation example, the process should 
 
 WRF-Chem v4.1 baseline source code and run instructions are available for download at https://github.com/wrf-model/WRF/releases/tag/v4.1.
 
-To implement these changes, copy the .F files within each subfolder listed below from this repositry to the corresponding subfolder within the main WRF-Chem Directory and recompile. Note that because these steps include a change to the registry, you will need to do a full clean of WRF-Chem in order for the new code to compile correctly.
+To implement these changes, copy the .F files within each subfolder listed below from this repository to the corresponding subfolder within the main WRF-Chem Directory and recompile. Note that because these steps include a change to the registry, you will need to do a full clean of WRF-Chem in order for the new code to compile correctly.
 
 Code included in this repository:
 
