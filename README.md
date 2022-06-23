@@ -20,6 +20,7 @@ Code included in this repository:
 Please refer to the technical report by Michaels et al. (2022; ERDC/CRREL TR-22-2) for detailed code descriptions, guidance on how to prepare the required input data, and instructions model runtime instructions. 
 
 References:
+
 Chappell, A. and Webb, N. P.: Using albedo to reform wind erosion modelling, mapping and monitoring, Aeolian Res., 23, 63–78, https://doi.org/10.1016/j.aeolia.2016.09.006, 2016.
 
 Michaels, M. L., Letcher, T. W., LeGrand, S. L., Webb, N. P., and Putnam, J. B.: Implementation of an albedo-based drag partition into the WRF-Chem v4.1 AFWA dust emission module, ERDC/CRREL TR-22-2, U.S. Army Engineer Research and Development Center, Hanover, New Hampshire, USA, https://doi.org/10.21079/11681/42782, 2022.
