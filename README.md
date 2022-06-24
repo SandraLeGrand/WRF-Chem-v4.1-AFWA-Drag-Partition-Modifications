@@ -25,7 +25,7 @@ Code included in this repository and purpose:<br/>
 * **WRF-v4.1/chem/emissions_driver.F** - passes *u*<sub>ns*</sub> data to the AFWA dust emission module<br/>
 * **WRF-v4.1/chem/module_gocart_dust_afwa.F** - AFWA dust emission module with drag partition code modifications
 
-Please refer to the technical report by Michaels et al. (2022; ERDC/CRREL TR-22-2) for detailed code descriptions, guidance on how to prepare the required input data, and instructions model runtime instructions. 
+Please refer to the technical report by Michaels et al. (2022; ERDC/CRREL TR-22-2) for detailed code descriptions, guidance on how to prepare the required input data, and model runtime instructions. 
 
 ## References
 
