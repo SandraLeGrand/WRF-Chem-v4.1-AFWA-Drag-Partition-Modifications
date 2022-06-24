@@ -11,6 +11,7 @@ This repository contains the four modified WRF-Chem v4.1 files required to incor
 ## Modified Code Authors
 * Theodore W. Letcher (ERDC)
 * Sandra L. LeGrand (ERDC)
+* Michelle L. Michaels (ERDC)
 
 ## Instructions
 Though we used WRF-Chem v4.1 in this implementation example, the process should be relatively consistent for later WRF-Chem versions (currently on v4.4 at the time of publication). We recommend users planning to use the WRF-Chem/GOCART dust transport capability work with WRF-Chem v4.1 or later due to a critical bug fix in the GOCART deposition module.
