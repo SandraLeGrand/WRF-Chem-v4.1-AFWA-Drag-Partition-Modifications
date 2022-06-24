@@ -1,6 +1,6 @@
 # WRF-Chem-v4.1-AFWA-Drag-Partition-Modifications
 
-[![DOI](https://zenodo.org/badge/396943079.svg)](https://zenodo.org/badge/latestdoi/396943079)
+[![DOI](https://zenodo.org/badge/506778395.svg)](https://zenodo.org/badge/latestdoi/506778395)
 
 ## Created 
 Summer 2022
