@@ -26,7 +26,15 @@ Code included in this repository and purpose:<br/>
 * **WRF-v4.1/chem/emissions_driver.F** - passes *u*<sub>ns*</sub> data to the AFWA dust emission module<br/>
 * **WRF-v4.1/chem/module_gocart_dust_afwa.F** - AFWA dust emission module with drag partition code modifications
 
-Please refer to the technical report by Michaels et al. (2022; ERDC/CRREL TR-22-2) for detailed code descriptions, guidance on how to prepare the required input data, and model runtime instructions. 
+Please refer to the technical report by Michaels et al. (2022; ERDC/CRREL TR-22-2) for detailed code descriptions, guidance on how to prepare the required input data, and model runtime instructions.
+
+## How to Cite
+
+### Code
+Letcher, T. W., LeGrand, S. L., and Michaels, M. L.: WRF-Chem-v4.1-AFWA-Drag-Partition-Modifications: Initial code release, Zenodo [code], https://doi.org/10.5281/ZENODO.6713285, 2022.
+
+### Concept & Methodology
+LeGrand, S. L., Letcher, T. W., Okin, G. S., Webb, N. P., Gallagher, A. R., Dhital, S., Hodgdon, T. S., Ziegler, N. P., and Michaels, M. L.: Application of a Satellite-Retrieved Sheltering Parameterization (v1.0) for Dust Event Simulation with WRF-Chem v4.1, in review.
 
 ## References
 
