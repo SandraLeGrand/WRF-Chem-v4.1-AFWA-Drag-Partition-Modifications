@@ -32,6 +32,9 @@ This repository also includes a copy of the WRF Pre-processing System (WPS) Vers
 
 ## How to Cite
 
+### Code
+Letcher, T. W., LeGrand, S. L., and Michaels, M. L.: WRF-Chem-v4.1-AFWA-Drag-Partition-Modifications: Initial full model code release, Zenodo [code], 2022.
+
 ### Concept & Methodology
 LeGrand, S. L., Letcher, T. W., Okin, G. S., Webb, N. P., Gallagher, A. R., Dhital, S., Hodgdon, T. S., Ziegler, N. P., and Michaels, M. L.: Application of a Satellite-Retrieved Sheltering Parameterization (v1.0) for Dust Event Simulation with WRF-Chem v4.1, in review.
 
