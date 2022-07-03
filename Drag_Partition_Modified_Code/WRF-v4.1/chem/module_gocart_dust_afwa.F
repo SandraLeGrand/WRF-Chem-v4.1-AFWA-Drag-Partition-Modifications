@@ -1,6 +1,7 @@
 MODULE GOCART_DUST_AFWA
 !
 ! AFWA dust routine
+! See LeGrand et al. (2019, GMD)
 ! Originally created by Sandra (Jones) LeGrand (AER and AFWA) and Glenn Creighton (AFWA)
 ! Modified to include drag partition by Ted Letcher, Sandra LeGrand, and Michelle Michaels (US Army/ERDC)
 !
