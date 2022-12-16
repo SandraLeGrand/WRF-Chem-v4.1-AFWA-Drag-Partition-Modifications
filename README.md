@@ -32,12 +32,12 @@ Though we used WRF-Chem v4.1 in this implementation example, the process should 
 
 Please refer to the technical report by Michaels et al. (2022; ERDC/CRREL TR-22-2) for detailed code descriptions, guidance on preparing the required input data, and model runtime instructions.
 
-This repository also includes a copy of the WRF Pre-processing System (WPS) Version 4.2, obtained from https://github.com/wrf-model/WPS/releases/tag/v4.2. We used this version of WPS to generate terrain and atmospheric forcing condition inputs for simulations during our code implementation and testing process. 
+This repository also includes a copy of the WRF Pre-processing System (WPS) Version 4.2, obtained from https://github.com/wrf-model/WPS/releases/tag/v4.2. We used this version of WPS to generate terrain and atmospheric forcing condition inputs for simulations during our code implementation and testing process.
 
 ## How to Cite
 
 ### Code
-Letcher, T. W., LeGrand, S. L., and Michaels, M. L.: WRF-Chem-v4.1-AFWA-Drag-Partition-Modifications: Initial full model code release (v1.1.0), Zenodo [code], https://doi.org/10.5281/zenodo.6792554, 2022.
+Letcher, T. W., LeGrand, S. L., and Michaels, M. L.: WRF-Chem-v4.1-AFWA-Drag-Partition-Modifications: Full model code release (bug-fix release) (v1.1.1), Zenodo [code], 2022.
 
 ### Concept & Methodology
 LeGrand, S. L., Letcher, T. W., Okin, G. S., Webb, N. P., Gallagher, A. R., Dhital, S., Hodgdon, T. S., Ziegler, N. P., and Michaels, M. L.: Application of a satellite-retrieved sheltering parameterization (v1.0) for dust event simulation with WRF-Chem v4.1, Geosci. Model Dev. Discuss. [preprint], https://doi.org/10.5194/gmd-2022-157, in review, 2022.
