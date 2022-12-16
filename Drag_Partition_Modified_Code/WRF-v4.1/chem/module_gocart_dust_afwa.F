@@ -159,7 +159,7 @@ CONTAINS
       if(config_flags%modis_dust_ust .ge. 1) then
          ustar(1,1)=localust(i,j) !Set ustar to localust, which is the MODIS adjusted value.
       else
-         ustar(1,1)=ustar(1,1)
+         ustar(1,1)=ust(i,j) 
       endif
       dxy(1)=dx*dx
 
