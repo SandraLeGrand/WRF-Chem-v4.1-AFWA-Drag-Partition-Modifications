@@ -1,7 +1,5 @@
 # WRF-Chem-v4.1-AFWA-Drag-Partition-Modifications
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6792554.svg)](https://doi.org/10.5281/zenodo.6792554) - Latest version (1.1.0)
-
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6713284.svg)](https://doi.org/10.5281/zenodo.6713284) - All versions
 
 ## Created 
@@ -32,7 +30,9 @@ Though we used WRF-Chem v4.1 in this implementation example, the process should 
 
 Please refer to the technical report by Michaels et al. (2022; ERDC/CRREL TR-22-2) for detailed code descriptions, guidance on preparing the required input data, and model runtime instructions.
 
-This repository also includes a copy of the WRF Pre-processing System (WPS) Version 4.2, obtained from https://github.com/wrf-model/WPS/releases/tag/v4.2. We used this version of WPS to generate terrain and atmospheric forcing condition inputs for simulations during our code implementation and testing process.
+This repository also includes:
+* A copy of the WRF Pre-processing System (WPS) Version 4.2, obtained from https://github.com/wrf-model/WPS/releases/tag/v4.2. We used this version of WPS to generate terrain and atmospheric forcing condition inputs for simulations during our code implementation and testing process.
+* The model run-time configuration files used in the study by LeGrand et al. (2022).
 
 ## How to Cite
 
